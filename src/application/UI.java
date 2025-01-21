@@ -1,6 +1,7 @@
 package application;
 
 import chess.ChessPiece;
+import org.w3c.dom.ls.LSOutput;
 
 public class UI {
 
