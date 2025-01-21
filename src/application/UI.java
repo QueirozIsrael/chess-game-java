@@ -1,7 +1,6 @@
 package application;
 
-import Chess.ChessMatch;
-import Chess.ChessPiece;
+import chess.ChessPiece;
 
 public class UI {
 
